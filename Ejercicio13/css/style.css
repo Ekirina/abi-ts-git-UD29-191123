@@ -1,0 +1,41 @@
+table{
+    border: 0px solid;
+    font-weight: bold;
+    width: 65%;
+    text-align: center;
+    background-color: rgb(192, 192, 192);
+    box-shadow: 2px 2px 1px rgb(122, 119, 119);;
+}
+
+tr{
+    border: 1px solid;
+    border-color:  rgb(189, 186, 186);
+}
+
+td{
+    border-color: rgb(189, 186, 186);
+    border: 1px solid;
+}
+
+#line1{
+    background-color: rgb(151, 255, 151);
+}
+
+#line2{
+    background-color: rgb(100, 255, 254);
+    text-align:start;
+}
+
+#cell6{
+    background-color: rgb(254, 151, 254);
+    text-align:end;
+}
+
+.column1{
+    color: red;
+    background-color: white;
+}
+
+.white{
+    background-color: white;
+}
