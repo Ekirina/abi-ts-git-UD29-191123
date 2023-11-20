@@ -1,0 +1,28 @@
+table{
+    border: 3px double;
+    border-color: grey;
+    border-collapse: collapse;
+    text-align: center;
+    color:rgb(153, 36, 36);
+    font-size: 13px;
+    font-weight: 550;
+    box-shadow: 1px 1px 2px black;
+}
+td{
+    border: 3px double;
+    border-color: grey;
+    border-collapse: collapse;    
+}
+#head{
+    background-color: rgb(102, 153, 102);
+}
+.words{
+    background-color: rgb(255, 204, 153);
+}
+tr{
+    border: 3px double;
+    border-color: grey;
+}
+.yellow{
+    background-color: rgb(255, 255, 153);
+}
