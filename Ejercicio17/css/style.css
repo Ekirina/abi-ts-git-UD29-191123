@@ -1,0 +1,151 @@
+#mantel1{
+    position:absolute;
+    top: 20px;
+    left: 150px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-image: url(../img/back_mantel.jpg);
+    text-align: center;
+}
+#mantel2{
+    position:absolute;
+    top: 20px;
+    left: 550px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+#transparent{
+    position:absolute;
+    top: 20px;
+    left: 25px;
+    bottom: 20px;
+    width: 150px;
+    height: 150px;
+    background-image: url(../img/back_mantel.jpg);
+    background-color: transparent;
+    text-align:center;   
+}
+#mantel3{
+    position:absolute;
+    top: 20px;
+    left: 950px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+    background-image: url(../img/back_mantel.jpg);
+    background-size: cover;
+
+}
+#mantel4{
+    position:absolute;
+    top: 20px;
+    left: 1350px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-color: white;
+    background-position-x: center;
+    background-position-y: center;
+    text-align: center;
+
+}
+#dh1{
+    position:absolute;
+    top: 300px;
+    left: 150px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+
+}
+#dh2{
+    position:absolute;
+    top: 300px;
+    left: 550px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#dh3{
+    position:absolute;
+    top: 300px;
+    left: 950px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#dh4{
+    position:absolute;
+    top: 300px;
+    left: 1350px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#sub1{
+    position:absolute;
+    top: 580px;
+    left: 150px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#sub2{
+    position:absolute;
+    top: 580px;
+    left: 550px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#sub3{
+    position:absolute;
+    top: 580px;
+    left: 950px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+#sub4{
+    position:absolute;
+    top: 580px;
+    left: 1350px;
+    bottom: 20px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+
+}
+
