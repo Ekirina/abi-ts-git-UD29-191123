@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+#pingu{
+    width: 80%;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+div{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    text-align: center;
+}
+table{
+    width: 800px;
+    border: 1px solid black;
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-collapse: collapse;
+}
+.yellow{
+    background-color: rgb(255, 252, 155);
+}
+td{
+    border: 2px rgb(55, 53, 53);
+    border-style:double;
+}
+#head{
+    font-weight: bold;
+}

@@ -28,7 +28,8 @@ td{
 
 #cell6{
     background-color: rgb(254, 151, 254);
-    text-align:end;
+    vertical-align: bottom;
+    text-align: right;
 }
 
 .column1{
