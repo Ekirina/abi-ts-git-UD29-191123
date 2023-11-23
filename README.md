@@ -1,3 +1,5 @@
+RESOLUCIÓN 2560X1600 ESCALA 125%
+
 # abi-ts-git-UD29-191123
 Tablas_DIV HTML CSS en Visual Studio Code
 Ejercicio 11 y 12:
